@@ -1,0 +1,20 @@
+[
+  {
+    "name": "علي لطيف",
+    "desc": "مطور",
+    "imageURL": "https://appstar.app/images/ali.jpeg",
+    "profileURL": "https://alilatif.net"
+  },
+  {
+    "name": "Dr.Noor",
+    "desc": "UI Designer & App manager",
+    "imageURL": "https://appstar.app/images/DrNoor.jpg",
+    "profileURL": "https://t.me/dr_nor"
+  },
+  {
+    "name": "محمد احمد",
+    "desc": "Web Dev",
+    "imageURL": "https://appstar.app/images/Mohamed.jpeg",
+    "profileURL": "https://t.me/@r71il"
+  }
+]
